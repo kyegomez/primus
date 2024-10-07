@@ -124,7 +124,7 @@ print("Speech Output: ", speech_output.shape)
 
 
 ## Full Code
-```
+```python
 import torch
 import torch.nn as nn
 from loguru import logger
